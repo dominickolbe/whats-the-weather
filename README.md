@@ -1,6 +1,7 @@
 <p align="center">
   <p align="center">:sunny: :cloud: :zap:</p>
   <h2 align="center">whats the weather</h2>
+  <p align="center">get weather data using your terminal</p>
 </p>
 
 ---
