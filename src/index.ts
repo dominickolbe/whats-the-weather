@@ -12,12 +12,13 @@ const app = async () => {
 
   program
     .version(APP_VERSION)
+    .option("-v, --verbose", "output additional error logs.", () => true, false)
     .argument("<location>", "City name")
-    .action(async (location) => {
-      spinner.text = `loading weather data for ➜ ${chalk.blue.bold(location)}`;
+    .action(async (arg, options) => {
+      spinner.text = `loading weather data for ➜ ${chalk.blue.bold(arg)}`;
       spinner.start();
 
-      const result = await Api.weather.getByPlace(location);
+      const result = await Api.weather.getByPlace(arg);
 
       if (result.ok) {
         spinner.succeed(
@@ -31,13 +32,13 @@ const app = async () => {
     Wind:        {bold ${result.val.wind.speed.toFixed()} m/s}
 `);
       } else {
+        if (options.verbose) console.log(result.err);
         spinner.fail(`Oops! Something went wrong!
 `);
       }
     })
-    .showHelpAfterError();
-
-  program.parse(process.argv);
+    .showHelpAfterError()
+    .parse(process.argv);
 };
 
 app();

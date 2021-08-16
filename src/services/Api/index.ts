@@ -24,7 +24,6 @@ export const Api = {
         });
         return createOk(RtOpenWeatherRequest.check(response.data));
       } catch (error) {
-        // console.log(error);
         return createErr(error);
       }
     },
