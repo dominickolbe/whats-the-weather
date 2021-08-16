@@ -1,0 +1,34 @@
+{
+  "name": "@domnc/whats-the-weather",
+  "version": "0.0.0",
+  "description": "whats-the-weather",
+  "license": "MIT",
+  "author": {
+    "name": "Dominic Kolbe",
+    "email": "kolbedominic@gmail.com",
+    "url": "https://dominickolbe.dk"
+  },
+  "repository": "git@github.com:dominickolbe/whats-the-weather.git",
+  "homepage": "https://github.com/dominickolbe/whats-the-weather#readme",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "prettier:check": "prettier --check src/**/*",
+    "prettier:fix": "prettier --write src/**/*",
+    "test": "yarn prettier:check"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "16.6.1",
+    "prettier": "2.3.2",
+    "ts-node": "10.2.0",
+    "typescript": "4.3.5"
+  },
+  "keywords": [
+    "cli",
+    "cli-app",
+    "terminal",
+    "weather",
+    "nodejs",
+    "typescript"
+  ]
+}
