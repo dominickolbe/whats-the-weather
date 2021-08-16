@@ -1,8 +1,26 @@
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dominickolbe/whats-the-weather/Build%20and%20test)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/dominickolbe/whats-the-weather)
+![npm](https://img.shields.io/npm/v/@domnc/whats-the-weather)
+
 <p align="center">
   <p align="center">:sunny: :cloud: :zap:</p>
   <h2 align="center">whats the weather</h2>
   <p align="center">get weather data using your terminal</p>
 </p>
+
+## Usage
+
+Run the app using `npx`
+
+```bash
+npx @domnc/whats-the-weather <location>
+```
+
+Example
+
+```bash
+npx @domnc/whats-the-weather London
+```
 
 ---
 
