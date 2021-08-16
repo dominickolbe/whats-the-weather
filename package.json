@@ -10,6 +10,7 @@
   },
   "repository": "git@github.com:dominickolbe/whats-the-weather.git",
   "homepage": "https://github.com/dominickolbe/whats-the-weather#readme",
+  "main": "./lib/index.js",
   "bin": {
     "whats-the-weather": "./lib/index.js"
   },
