@@ -10,8 +10,14 @@
   },
   "repository": "git@github.com:dominickolbe/whats-the-weather.git",
   "homepage": "https://github.com/dominickolbe/whats-the-weather#readme",
+  "bin": {
+    "whats-the-weather": "./lib/index.js"
+  },
   "scripts": {
     "start": "ts-node ./src/index.ts",
+    "prebuild": "yarn test && rm -rf ./lib",
+    "build": "tsc -b",
+    "postbuild": "chmod +x ./lib/index.js",
     "prettier:check": "prettier --check src/**/*",
     "prettier:fix": "prettier --write src/**/*",
     "test": "yarn prettier:check"
