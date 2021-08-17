@@ -15,7 +15,7 @@
     "whats-the-weather": "./lib/index.js"
   },
   "scripts": {
-    "start": "ts-node -r dotenv/config ./src/index.ts",
+    "start": "ts-node ./src/index.ts",
     "prebuild": "yarn test && rm -rf ./lib",
     "build": "tsc",
     "postbuild": "chmod +x ./lib/index.js",

@@ -1,21 +1,18 @@
 {
   "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": ".",
+    "esModuleInterop": true,
     "lib": ["ESNext", "DOM"],
     "module": "commonjs",
-    "target": "ESNext",
-    "allowJs": true,
-    "outDir": "./lib",
-    "strict": true,
     "noImplicitAny": true,
-    "esModuleInterop": true,
-    "resolveJsonModule": true,
-    "moduleResolution": "node",
-    "sourceMap": true,
-    "baseUrl": ".",
+    "outDir": "./lib",
     "paths": {
-      "*": ["node_modules/*", "src/types/*"]
+      "*": ["./node_modules/@types"]
     },
-    "typeRoots": ["./node_modules/@types"]
-  },
-  "include": ["src/**/*"]
+    "resolveJsonModule": true,
+    "rootDir": "./src",
+    "strict": true,
+    "target": "ESNext"
+  }
 }

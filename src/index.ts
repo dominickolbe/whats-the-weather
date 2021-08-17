@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 
-import "./lib/env";
+const resolve = require("path").resolve;
+require("dotenv").config({ path: resolve(__dirname, "../.env") });
+
 import chalk from "chalk";
 import { APP_VERSION } from "./config";
 import { Api } from "./services/Api";
