@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
-require("dotenv").config();
-
+import "./lib/env";
 import chalk from "chalk";
 import { APP_VERSION } from "./config";
 import { Api } from "./services/Api";
