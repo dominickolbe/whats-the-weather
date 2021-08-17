@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/dominickolbe/whats-the-weather/compare/v0.0.2...v0.0.3) (2021-08-17)
+
+
+### Features
+
+* add default timeout ([a653288](https://github.com/dominickolbe/whats-the-weather/commit/a653288508630b99bb26041ee3252c694e4b3e1f))
+
+
+### Bug Fixes
+
+* try to fix env issue ([a5f40f9](https://github.com/dominickolbe/whats-the-weather/commit/a5f40f9c179a14df4c1d399ba9736380a9a8a8b6))
+
 ### [0.0.2](https://github.com/dominickolbe/whats-the-weather/compare/v0.0.1...v0.0.2) (2021-08-16)
 
 
