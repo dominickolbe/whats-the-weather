@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/dominickolbe/whats-the-weather/compare/v0.1.0...v0.1.1) (2021-08-17)
+
+
+### Features
+
+* create github release action ([b83a90a](https://github.com/dominickolbe/whats-the-weather/commit/b83a90a44ee5d101e7e93b9e6023952525d2fb66))
+
+
+### Chores
+
+* rename github action and add badge ([117ef6a](https://github.com/dominickolbe/whats-the-weather/commit/117ef6a3dec234f4c6517606afc8119cd2acd7a2))
+
 ## [0.1.0](https://github.com/dominickolbe/whats-the-weather/compare/v0.0.3...v0.1.0) (2021-08-17)
 
 
