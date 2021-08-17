@@ -2,7 +2,7 @@ import axios from "axios";
 import { Agent } from "http";
 import { createErr, createOk } from "option-t/cjs/PlainResult";
 import { RtOpenWeatherRequest } from "../../types/openweather";
-import { API_HOST, API_KEY, DEFAULT_UNIT } from "./config";
+import { API_HOST, API_KEY, DEFAULT_TIMEOUT, DEFAULT_UNIT } from "./config";
 
 const keepAliveAgent = new Agent({ keepAlive: true });
 
@@ -18,7 +18,7 @@ export const Api = {
             APPID: API_KEY,
             units: DEFAULT_UNIT,
           },
-          timeout: 1000 * 30,
+          timeout: DEFAULT_TIMEOUT,
           httpAgent: keepAliveAgent,
           httpsAgent: keepAliveAgent,
         });
