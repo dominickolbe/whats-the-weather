@@ -33,9 +33,9 @@
     "runtypes": "6.3.2"
   },
   "devDependencies": {
-    "@types/node": "16.6.1",
+    "@types/node": "16.7.1",
     "prettier": "2.3.2",
-    "ts-node": "10.2.0",
+    "ts-node": "10.2.1",
     "typescript": "4.3.5"
   },
   "keywords": [
