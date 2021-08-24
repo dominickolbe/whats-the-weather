@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.0...v0.2.1) (2021-08-24)
+
+
+### Bug Fixes
+
+* add .ncurc.json to avoid update ora ([bfb74c1](https://github.com/dominickolbe/whats-the-weather/commit/bfb74c177b386f9b08f3d4ba358b5778b72be963))
+
+
+### Chores
+
+* add postinstall ([b4f407d](https://github.com/dominickolbe/whats-the-weather/commit/b4f407d2d2c218e6a695b1c92b390e4b99ca48b6))
+
 ## [0.2.0](https://github.com/dominickolbe/whats-the-weather/compare/v0.1.2...v0.2.0) (2021-08-23)
 
 
