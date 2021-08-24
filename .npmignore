@@ -3,3 +3,4 @@ src/
 .nvmrc
 .versionrc.json
 tsconfig.json
+bin/
