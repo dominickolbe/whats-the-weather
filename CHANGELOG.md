@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.6](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.5...v0.2.6) (2021-08-24)
+
+
+### Bug Fixes
+
+* postinstall chmod ([9f25264](https://github.com/dominickolbe/whats-the-weather/commit/9f2526473329e5082eda9f49de090ba41d24f49f))
+
 ### [0.2.5](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.4...v0.2.5) (2021-08-24)
 
 ### [0.2.4](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.3...v0.2.4) (2021-08-24)
