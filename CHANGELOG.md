@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.3](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.2...v0.2.3) (2021-08-24)
+
+
+### Chores
+
+* add bin to .npmignore ([e755364](https://github.com/dominickolbe/whats-the-weather/commit/e755364af0b485636ebde2ed0021f7908f57345e))
+
 ### [0.2.2](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.1...v0.2.2) (2021-08-24)
 
 
