@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.7](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.6...v0.2.7) (2021-08-24)
+
+
+### Bug Fixes
+
+* remove postinstall ([01797ed](https://github.com/dominickolbe/whats-the-weather/commit/01797edf8edd19b532ac10a6e51f102e4db24e23))
+
+
+### Chores
+
+* .npmignore ([a642a0c](https://github.com/dominickolbe/whats-the-weather/commit/a642a0c79171d456f551a471912335db69d04c22))
+
 ### [0.2.6](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.5...v0.2.6) (2021-08-24)
 
 
