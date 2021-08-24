@@ -3,4 +3,3 @@ src/
 .nvmrc
 .versionrc.json
 tsconfig.json
-release.sh
