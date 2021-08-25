@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.8](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.7...v0.2.8) (2021-08-25)
+
+
+### Bug Fixes
+
+* get version for production ([89d1a73](https://github.com/dominickolbe/whats-the-weather/commit/89d1a7370ad897cc107fad404e8054754e3376af))
+
 ### [0.2.7](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.6...v0.2.7) (2021-08-24)
 
 
