@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.10](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.9...v0.2.10) (2021-09-03)
+
+
+### Refactoring
+
+* change output styling ([ca116f8](https://github.com/dominickolbe/whats-the-weather/commit/ca116f84fe40a7beb8324ba0ca6f6d4e219b40d3))
+
 ### [0.2.9](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.8...v0.2.9) (2021-09-03)
 
 
