@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.9](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.8...v0.2.9) (2021-09-03)
+
+
+### Chores
+
+* release.sh ([9f3b310](https://github.com/dominickolbe/whats-the-weather/commit/9f3b310ae48ef381408077925496410291495c4e))
+* update dependencies ([b20cc2c](https://github.com/dominickolbe/whats-the-weather/commit/b20cc2c8a9b3ff57d2e2be101377bd0b8359c87c))
+
 ### [0.2.8](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.7...v0.2.8) (2021-08-25)
 
 
