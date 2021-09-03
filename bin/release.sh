@@ -18,7 +18,7 @@ echo "➜ run tests" && echo " "
 yarn test || exit 1;
 
 echo "➜ create new version" && echo " "
-npx standard-version -y
+npx standard-version
 
 echo "➜ build again with new version" && echo " "
 yarn build || exit 1;
