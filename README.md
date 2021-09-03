@@ -6,10 +6,11 @@
 <p align="center">
   <p align="center">:sunny: :cloud: :zap:</p>
   <h2 align="center">whats the weather</h2>
-  <p align="center">get weather data using your terminal</p>
 </p>
 
-![Preview](https://github.com/dominickolbe/whats-the-weather/blob/master/preview.png?raw=true "whats-the-weather")
+<p align="center">
+  <img src="https://github.com/dominickolbe/whats-the-weather/blob/master/preview.png?raw=true">
+</p>
 
 ## Usage
 
