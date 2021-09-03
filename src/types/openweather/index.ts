@@ -1,4 +1,4 @@
-import { Number, Record, Static, String } from "runtypes";
+import { Array, Number, Record, Static, String } from "runtypes";
 
 export const RtOpenWeatherRequest = Record({
   name: String,
@@ -17,6 +17,15 @@ export const RtOpenWeatherRequest = Record({
   clouds: Record({
     all: Number,
   }),
+  sys: Record({
+    country: String,
+  }),
+  weather: Array(
+    Record({
+      main: String,
+      description: String,
+    })
+  ),
 });
 
 export type OpenWeatherRequest = Static<typeof RtOpenWeatherRequest>;
