@@ -13,6 +13,7 @@
     "resolveJsonModule": true,
     "rootDir": "./src",
     "strict": true,
-    "target": "ESNext"
+    "target": "ESNext",
+    "useUnknownInCatchVariables": false
   }
 }
