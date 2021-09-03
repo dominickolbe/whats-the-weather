@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.11](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.10...v0.2.11) (2021-09-03)
+
+
+### Documentation
+
+* add preview ([2b73682](https://github.com/dominickolbe/whats-the-weather/commit/2b73682b76dc985deba41a72f95559c79b82e23f))
+* README.md ([4f56eb4](https://github.com/dominickolbe/whats-the-weather/commit/4f56eb49aa39fc46d33e05849def0e702562451f))
+
+
+### Chores
+
+* update tsconfig.json ([3c64629](https://github.com/dominickolbe/whats-the-weather/commit/3c64629a8e3a4496ececaf0d7b6c3ed9ce420351))
+
 ### [0.2.10](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.9...v0.2.10) (2021-09-03)
 
 
