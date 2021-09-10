@@ -1,4 +1,4 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dominickolbe/whats-the-weather/Test?label=test)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dominickolbe/whats-the-weather/Tests?label=tests)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dominickolbe/whats-the-weather/Release?label=release)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/dominickolbe/whats-the-weather)
 ![npm](https://img.shields.io/npm/v/@domnc/whats-the-weather)
