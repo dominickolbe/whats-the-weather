@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.12](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.11...v0.2.12) (2021-09-10)
+
+
+### Chores
+
+* remove space ([9a204c6](https://github.com/dominickolbe/whats-the-weather/commit/9a204c6ab6306a4938719f015ac9ea967381df07))
+* update dependencies ([914e514](https://github.com/dominickolbe/whats-the-weather/commit/914e51425266a9acf09c767f6978afe1e28a56d4))
+
 ### [0.2.11](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.10...v0.2.11) (2021-09-03)
 
 
