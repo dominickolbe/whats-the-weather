@@ -24,7 +24,7 @@ echo "➜ build again with new version" && echo " "
 yarn build || exit 1;
 
 echo "➜ git push" && echo " "
-git push --follow-tags origin master 
+git push --follow-tags origin master
 
 echo "➜ release new version on npm" && echo " "
 npm publish
