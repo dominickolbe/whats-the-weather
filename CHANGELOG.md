@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.14](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.13...v0.2.14) (2021-09-10)
+
+
+### Bug Fixes
+
+* github action node version ([6fdf60a](https://github.com/dominickolbe/whats-the-weather/commit/6fdf60a47896ca21a7fb01f99d22cc0c3834e2aa))
+
 ### [0.2.13](https://github.com/dominickolbe/whats-the-weather/compare/v0.2.12...v0.2.13) (2021-09-10)
 
 
